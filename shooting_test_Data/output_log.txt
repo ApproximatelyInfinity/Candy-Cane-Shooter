@@ -1,0 +1,56 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  3.329 seconds
+Platform assembly: C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\DBrog\Desktop\new and resue\shooting_test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 2944x1286 at -1024,-206
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 108.839500 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 27.401100 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 4076.
+Total: 27.376900 ms (FindLiveObjects: 0.237900 ms CreateObjectMapping: 0.153900 ms MarkObjects: 26.378500 ms  DeleteObjects: 0.605200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.784800 ms
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 4108.
+Total: 2.017500 ms (FindLiveObjects: 0.265700 ms CreateObjectMapping: 0.115800 ms MarkObjects: 0.814500 ms  DeleteObjects: 0.820600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.415700 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4077.
+Total: 6.289700 ms (FindLiveObjects: 0.216600 ms CreateObjectMapping: 0.130500 ms MarkObjects: 0.915700 ms  DeleteObjects: 5.026200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.616000 ms
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 3853.
+Total: 1.930700 ms (FindLiveObjects: 0.231900 ms CreateObjectMapping: 0.116600 ms MarkObjects: 0.849000 ms  DeleteObjects: 0.732300 ms)
+
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+ 
+(Filename:  Line: 1898)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6014 -> priority: 1 
